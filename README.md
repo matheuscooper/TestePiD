@@ -14,7 +14,7 @@ Sistema de gestão de produção industrial com sugestão inteligente de otimiza
 
 ## 🎯 Sobre o Projeto
 
-O AutoFlex é um sistema completo de gestão de produção industrial que permite:
+O sistema é completo paragestão de produção industrial que permite:
 
 - Cadastro e gerenciamento de produtos
 - Controle de matérias-primas e estoque
