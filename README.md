@@ -1,4 +1,4 @@
-# AutoFlex - Industrial Production Manager
+# Industrial Production Manager
 
 Sistema de gestão de produção industrial com sugestão inteligente de otimização baseada em estoque de matérias-primas.
 
