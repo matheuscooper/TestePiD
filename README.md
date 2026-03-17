@@ -5,14 +5,12 @@ Sistema de gestão de produção industrial com sugestão inteligente de otimiza
 ## 📋 Índice
 
 - [Sobre o Projeto](#sobre-o-projeto)
-- [Tecnologias](#tecnologias)
 - [Pré-requisitos](#pré-requisitos)
 - [Instalação](#instalação)
 - [Executando a Aplicação](#executando-a-aplicação)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Funcionalidades](#funcionalidades)
 - [API Endpoints](#api-endpoints)
-- [Troubleshooting](#troubleshooting)
 
 ## 🎯 Sobre o Projeto
 
